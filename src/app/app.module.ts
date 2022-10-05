@@ -3,16 +3,21 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { TopheadlinesComponent } from './topheadlines/topheadlines.component';
+import { HttpClientModule } from '@angular/common/http';
+import { TcnewsapiService } from './services/tcnewsapi.service';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TopheadlinesComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [TcnewsapiService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
