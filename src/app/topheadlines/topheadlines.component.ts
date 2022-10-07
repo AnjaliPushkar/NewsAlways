@@ -7,6 +7,7 @@ import { TcnewsapiService } from '../services/tcnewsapi.service';
   styleUrls: ['./topheadlines.component.css']
 })
 export class TopheadlinesComponent implements OnInit {
+[x: string]: any;
 
   constructor(private api: TcnewsapiService) { }
 
