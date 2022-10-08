@@ -28,7 +28,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Screenshots of Web Application
-
+- Right click on the image and open in new tab, to see it clearly.
 
 <table align="center">
 <tr>
@@ -41,10 +41,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 </tr>
 <tr>
      <td>
-         <img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/homePage.png" height="180" width="350">
+         <img src="/src/app/images/homePage.png" height="180" width="350">
      	</td>
      	<td>
-         <img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/techPage.png" height="180" width="350">
+         <img src="/src/app/images/techPage.png" height="180" width="350">
      	</td>
 </tr>
 <tr>
@@ -56,9 +56,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
      	</td>
 </tr>
 <tr>
-     	<td><img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/sportsPage.png" height="180" width="350">
+     	<td><img src="/src/app/images/sportsPage.png" height="180" width="350">
      	</td>
-     	<td><img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/healthImage.png" height="180" width="350">
+     	<td><img src="src/app/images/healthPage.png" height="180" width="350">
      	</td>
 </tr>
 <tr>
@@ -66,14 +66,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
          Entertainment related news
       </td>
       <td>
-         Footer 
+         That's It
       </td>
 </tr>
 <tr>
-     <td><img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/entertainmentPage.png" height="180" width="350">
+     <td><img src="/src/app/images/entertainmentPage.png" height="180" width="350">
      </td>
-     <td><img src="/hackjaipur/hackjaipur/static/Capture6.JPG" height="180" width="350">
+     <td><img src="https://www.birthdaywishes.expert/wp-content/uploads/2016/01/good-morning-picture-42.jpg" height="180" width="350">
      </td>
+     
 </tr>
 
 
