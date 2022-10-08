@@ -1,6 +1,7 @@
 # NewsAPI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+NewsAlways is a simple website which renders the data using API. It will show you the news about different field like sports, health, technology, etc.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1. 
 
 ## Development server
 
@@ -25,3 +26,55 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Screenshots of Web Application
+
+
+<table align="center">
+<tr>
+    <td>
+   			NewsAlways Home Page
+    </td>
+     <td>
+     		Technology related news
+     </td>
+</tr>
+<tr>
+     <td>
+         <img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/homePage.png" height="180" width="350">
+     	</td>
+     	<td>
+         <img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/techPage.png" height="180" width="350">
+     	</td>
+</tr>
+<tr>
+      <td>
+     		  Sports related news
+     	</td>
+     	<td>
+     			Health related news
+     	</td>
+</tr>
+<tr>
+     	<td><img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/sportsPage.png" height="180" width="350">
+     	</td>
+     	<td><img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/healthImage.png" height="180" width="350">
+     	</td>
+</tr>
+<tr>
+      <td>
+         Entertainment related news
+      </td>
+      <td>
+         Footer 
+      </td>
+</tr>
+<tr>
+     <td><img src="/Users/anjalipushkar/Angular Projects/NewsAPI/src/app/images/entertainmentPage.png" height="180" width="350">
+     </td>
+     <td><img src="/hackjaipur/hackjaipur/static/Capture6.JPG" height="180" width="350">
+     </td>
+</tr>
+
+
+</table>
