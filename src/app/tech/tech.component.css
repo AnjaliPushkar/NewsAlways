@@ -7,18 +7,42 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 marquee{
-    color: green;
+    color:green;
 }
 .box{
+    height: 300px;
     padding: 10px 10px;
+    /* border: 1px solid black; */
+    border-spacing: 15px 50px;
     /* background-image: rgb(240, 240, 240); */
+    margin: 0px 5px 5px 5px;
+}
+.box img{
+    height: 170px;
+    width: 300px;
 }
 .box h5{
     font-size: 15px;
     font-weight: bold;
+    position: relative;
 }
 h4{
     text-align: center;
     text-decoration:underline;
     font-weight: bold;
+}
+
+  .carousel-inner{
+    height: 400px;
+    position:relative;
+}
+.button{
+    visibility: visible;
+}
+.carousel-inner {
+    display: flex;
+    flex-direction: row;
+    }
+.marquee{
+    position: absolute;
 }
